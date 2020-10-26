@@ -1,1 +1,3 @@
-This is the rep for website
+Website URL
+
+https://prasannaelectrotech.github.io/website/
