@@ -114,6 +114,7 @@ section {
 	justify-content: center;
 	align-items: center;
 	flex-direction: column;
+	margin-top: 100px;
 }
 
 .product {
@@ -125,7 +126,7 @@ section {
 	justify-content: center;
 	flex-wrap: wrap;
 	flex-direction: row;
-	margin-top: 10px;
+	margin-top: 40px;
 }
 
 .product .content .box {
